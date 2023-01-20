@@ -1,5 +1,5 @@
 # Movie-Recommender
-Movie Recommending system &amp; website made with streamlit and sckit-learn
+Movie Recommending system &amp; website made with streamlit and scikit-learn
 
 Movie recommender supported by ai (content base filtering) and website built with streamlit library.
 
